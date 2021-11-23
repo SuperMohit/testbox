@@ -13,7 +13,7 @@
 
 
 Architecture:
-<img alt="Version" src="https://github.com/SuperMohit/testbox/blob/main/Untitled%20Diagram.drawio.svg" />
+<img alt="Version" src="https://github.com/SuperMohit/testbox/blob/main/image.png" />
 
 
 
