@@ -1,0 +1,17 @@
+.header {
+    background: black;
+    height: 56px;
+  }
+  .header img {
+    width: 200px;
+    height: 55px;
+  }
+
+.header input {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: -47px;
+    width: 500px;
+    height: 25px;
+}  
