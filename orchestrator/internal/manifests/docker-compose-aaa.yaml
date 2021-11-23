@@ -1,0 +1,6 @@
+services:
+  aaa:
+    container_name: aaa-service
+    image: karthequian/helloworld:latest
+    ports:
+    - 8080

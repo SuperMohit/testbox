@@ -1,0 +1,6 @@
+services:
+  {{ .Name}}:
+    container_name: {{ .Container}}
+    image: karthequian/helloworld:{{ .Version}}
+    ports:
+    - {{.Port}}

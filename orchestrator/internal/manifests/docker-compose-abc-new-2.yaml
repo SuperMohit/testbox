@@ -1,0 +1,6 @@
+services:
+  abc-new-2:
+    container_name: abc-new-2-service
+    image: karthequian/helloworld:latest
+    ports:
+    - 8080
